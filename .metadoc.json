@@ -1,0 +1,12 @@
+{
+  "language": "go",
+  "metadocs": [{
+    "directory": "./path/to/a",
+    "language": "javascript"
+  }, {
+    "directory": "./path/to/b",
+    "language": "go"
+  }, {
+    "directory": "./path/to/still_go"
+  }]
+}
